@@ -1,0 +1,13 @@
+{
+    "folders": [
+      {
+        "name": "0 - Root",
+        "path": "."
+      },
+      {
+        "name": "1 - Model",
+        "path": "model"
+      }
+    ],
+    "settings": {}
+  }
